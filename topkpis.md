@@ -1,3 +1,5 @@
+### **Top Key Performance Indicators**
+
 ## **Contracted customers**
 
 > 📘 The number of customers included in the contract.
