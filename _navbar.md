@@ -1,11 +1,10 @@
 * Getting started
 
   * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [Report API](reportAPI.md)
 
-* Configuration
+
+* TOP KPIs
   * [Configuration](configuration.md)
   * [Themes](themes.md)
   * [Using plugins](plugins.md)
