@@ -1,5 +1,6 @@
-- [Home](README.md)
-- [Draft Article](draft-article.md)
+- [Quick start](quickstart.md)
+- [Report API](reportAPI.md)
+- * TOP KPIs
 - [Guide](guide.md)
 - [First](page-first.md)
 - [Second](page-second.md)
