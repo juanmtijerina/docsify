@@ -1,6 +1,6 @@
 - [Quick start](quickstart.md)
 - [Report API](reportAPI.md)
-- * TOP KPIs
+- [TOP KPIs](topkpis.md)
 - [Guide](guide.md)
 - [First](page-first.md)
 - [Second](page-second.md)
